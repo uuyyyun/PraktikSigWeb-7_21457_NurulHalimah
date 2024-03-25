@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Percobaan GeoJSON</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+    integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyl=" crossorigin="" />
+</head>
+<body>
+    <div id="map" style="width:900px; height:580px"></div>
+
+    <!-- Include jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+    <!-- Include Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+    <script>
+        // initialize the map
+        var map = L.map('map').setView([-7.772, 110.378], 15);
+
+        // load a tile layer
+        L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+        // load GeoJSON from an external file
+        $.getJSON("https://download1073.mediafire.com/e4uubbw2cnrguxbtVBYixrAlpqV-mRXjihvYfCeWLWqYzT1jHfUT9MBe-uWL6st-PGFwHfhLN7PHPal92AJCAA48dao/2hjqyiwzo1fv9hs/Jalan.geojson", function(data) {
+            // add GeoJSON layer to the map once the file is loaded
+            L.geoJson(data).addTo(map).bindPopup("Kompleks kampus UGM.");
+        });
+    </script>
+</body>
+</html>
