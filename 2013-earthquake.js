@@ -1,6 +1,3 @@
-// This earthquake data is sourced from New Zealand’s Geonet
-// site over a date range that covers a period of reasonable
-// activity in July/August 2013.
 var quakePoints = [
 [-41.5396,174.1242,1.7345],
 [-38.8725,175.9561,2.6901],
