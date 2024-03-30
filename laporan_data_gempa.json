@@ -1,0 +1,3374 @@
+[
+ {
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Sistem Peringatan Dini Tsunami Indonesia (InaTEWS)"
+ },
+ {
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Lintang",
+  "Column3": ":  -3.4370236216156087 s\/d 0.40612461824908563"
+ },
+ {
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Bujur",
+  "Column3": ":  118.72606372484384 s\/d 122.54754415707065"
+ },
+ {
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Kedalaman",
+  "Column3": ":  1.00 s\/d 1000.00"
+ },
+ {
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Magnitude",
+  "Column3": ":  1.00 s\/d 9.50"
+ },
+ {
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Rentang Waktu",
+  "Column3": ":  27-09-2018 s\/d 07-10-2018"
+ },
+ null,
+ null,
+ null,
+ {
+  "Column1": "Tanggal (GMT)",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Lintang (°)",
+  "Column3": "Bujur (°)",
+  "Column4": "Kedalaman (km)",
+  "Column5": "Magnitudo (SR)"
+ },
+ {
+  "Column1": "2018-10-07 23:03:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.55,
+  "Column3": 119.72334,
+  "Column4": 60.2,
+  "Column5": 3.93
+ },
+ {
+  "Column1": "2018-10-07 21:11:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.81,
+  "Column3": 122.25835,
+  "Column4": 10.9,
+  "Column5": 2.97
+ },
+ {
+  "Column1": "2018-10-07 21:02:55",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.17,
+  "Column3": 119.66547,
+  "Column4": 10,
+  "Column5": 3.53
+ },
+ {
+  "Column1": "2018-10-07 20:30:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.5,
+  "Column3": 120.24516,
+  "Column4": 10,
+  "Column5": 4.07
+ },
+ {
+  "Column1": "2018-10-07 20:17:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.05,
+  "Column3": 120.01702,
+  "Column4": 28.5,
+  "Column5": 2.87
+ },
+ {
+  "Column1": "2018-10-07 20:15:25",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.46,
+  "Column3": 119.95538,
+  "Column4": 10,
+  "Column5": 2.5
+ },
+ {
+  "Column1": "2018-10-07 18:56:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.8,
+  "Column3": 119.92857,
+  "Column4": 105.8,
+  "Column5": 3.65
+ },
+ {
+  "Column1": "2018-10-07 16:41:48",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.53,
+  "Column3": 119.86105,
+  "Column4": 10,
+  "Column5": 3.2
+ },
+ {
+  "Column1": "2018-10-07 16:32:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.09,
+  "Column3": 119.60335,
+  "Column4": 10,
+  "Column5": 3.53
+ },
+ {
+  "Column1": "2018-10-07 14:31:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.23,
+  "Column3": 119.70152,
+  "Column4": 20.5,
+  "Column5": 3.27
+ },
+ {
+  "Column1": "2018-10-07 14:04:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.89,
+  "Column3": 119.97507,
+  "Column4": 26.4,
+  "Column5": 3.61
+ },
+ {
+  "Column1": "2018-10-07 13:33:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.55,
+  "Column3": 119.8536,
+  "Column4": 28.3,
+  "Column5": 3.47
+ },
+ {
+  "Column1": "2018-10-07 12:47:07",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.23,
+  "Column3": 119.91275,
+  "Column4": 10,
+  "Column5": 3.54
+ },
+ {
+  "Column1": "2018-10-07 10:35:04",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2,
+  "Column3": 120.68569,
+  "Column4": 10,
+  "Column5": 3.76
+ },
+ {
+  "Column1": "2018-10-07 08:18:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.3,
+  "Column3": 119.69196,
+  "Column4": 10,
+  "Column5": 3.55
+ },
+ {
+  "Column1": "2018-10-07 08:03:11",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.93,
+  "Column3": 119.83254,
+  "Column4": 10,
+  "Column5": 3.44
+ },
+ {
+  "Column1": "2018-10-07 07:29:39",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0,
+  "Column3": 119.54617,
+  "Column4": 10,
+  "Column5": 4.28
+ },
+ {
+  "Column1": "2018-10-07 07:07:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.55,
+  "Column3": 120.29223,
+  "Column4": 10,
+  "Column5": 3.84
+ },
+ {
+  "Column1": "2018-10-07 05:42:05",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.42,
+  "Column3": 119.95512,
+  "Column4": 10,
+  "Column5": 3.85
+ },
+ {
+  "Column1": "2018-10-07 04:09:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.37,
+  "Column3": 120.6217,
+  "Column4": 12.2,
+  "Column5": 3.54
+ },
+ {
+  "Column1": "2018-10-07 03:38:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.09,
+  "Column3": 119.48352,
+  "Column4": 10,
+  "Column5": 3.46
+ },
+ {
+  "Column1": "2018-10-07 03:34:56",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.28,
+  "Column3": 119.97944,
+  "Column4": 16.9,
+  "Column5": 3.33
+ },
+ {
+  "Column1": "2018-10-07 03:22:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.18,
+  "Column3": 119.41985,
+  "Column4": 16.1,
+  "Column5": 3.07
+ },
+ {
+  "Column1": "2018-10-07 02:21:26",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.19,
+  "Column3": 120.48644,
+  "Column4": 10,
+  "Column5": 2.85
+ },
+ {
+  "Column1": "2018-10-06 23:51:41",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.82,
+  "Column3": 119.74279,
+  "Column4": 15.4,
+  "Column5": 3.41
+ },
+ {
+  "Column1": "2018-10-06 23:46:00",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.76,
+  "Column3": 121.23713,
+  "Column4": 10,
+  "Column5": 2.84
+ },
+ {
+  "Column1": "2018-10-06 22:30:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.06,
+  "Column3": 119.5889,
+  "Column4": 10,
+  "Column5": 3.43
+ },
+ {
+  "Column1": "2018-10-06 22:27:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.12,
+  "Column3": 119.707,
+  "Column4": 10,
+  "Column5": 3.63
+ },
+ {
+  "Column1": "2018-10-06 21:14:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.29,
+  "Column3": 119.14864,
+  "Column4": 10,
+  "Column5": 3.78
+ },
+ {
+  "Column1": "2018-10-06 19:06:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.3,
+  "Column3": 121.09571,
+  "Column4": 32.4,
+  "Column5": 3.35
+ },
+ {
+  "Column1": "2018-10-06 19:05:12",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.43,
+  "Column3": 120.13155,
+  "Column4": 10,
+  "Column5": 3.44
+ },
+ {
+  "Column1": "2018-10-06 18:58:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 120.21069,
+  "Column4": 10,
+  "Column5": 3.1
+ },
+ {
+  "Column1": "2018-10-06 18:34:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.01,
+  "Column3": 119.72395,
+  "Column4": 10,
+  "Column5": 2.98
+ },
+ {
+  "Column1": "2018-10-06 18:17:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.12,
+  "Column3": 119.74279,
+  "Column4": 10,
+  "Column5": 3.69
+ },
+ {
+  "Column1": "2018-10-06 18:12:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.01,
+  "Column3": 119.7094,
+  "Column4": 10,
+  "Column5": 3.67
+ },
+ {
+  "Column1": "2018-10-06 17:11:25",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.39,
+  "Column3": 119.905,
+  "Column4": 36.1,
+  "Column5": 3.33
+ },
+ {
+  "Column1": "2018-10-06 16:48:42",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.87,
+  "Column3": 119.9213,
+  "Column4": 10,
+  "Column5": 3.17
+ },
+ {
+  "Column1": "2018-10-06 12:45:10",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.93,
+  "Column3": 120.22707,
+  "Column4": 10,
+  "Column5": 3.34
+ },
+ {
+  "Column1": "2018-10-06 07:44:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 120.01313,
+  "Column4": 10,
+  "Column5": 3.55
+ },
+ {
+  "Column1": "2018-10-06 06:22:16",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.52,
+  "Column3": 120.16852,
+  "Column4": 10,
+  "Column5": 3.69
+ },
+ {
+  "Column1": "2018-10-06 04:32:32",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.38,
+  "Column3": 120.00202,
+  "Column4": 10,
+  "Column5": 3.83
+ },
+ {
+  "Column1": "2018-10-06 03:10:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.43,
+  "Column3": 120.12183,
+  "Column4": 10,
+  "Column5": 4.03
+ },
+ {
+  "Column1": "2018-10-06 01:11:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.31,
+  "Column3": 119.6407,
+  "Column4": 20,
+  "Column5": 4.29
+ },
+ {
+  "Column1": "2018-10-05 22:57:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.37,
+  "Column3": 121.81687,
+  "Column4": 76.4,
+  "Column5": 2.58
+ },
+ {
+  "Column1": "2018-10-05 21:55:06",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.65,
+  "Column3": 119.89607,
+  "Column4": 10,
+  "Column5": 3.44
+ },
+ {
+  "Column1": "2018-10-05 14:40:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.59,
+  "Column3": 119.86735,
+  "Column4": 10,
+  "Column5": 3.48
+ },
+ {
+  "Column1": "2018-10-05 14:08:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.66,
+  "Column3": 120.38812,
+  "Column4": 20,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-10-05 13:59:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.3,
+  "Column3": 119.76601,
+  "Column4": 10,
+  "Column5": 3.29
+ },
+ {
+  "Column1": "2018-10-05 10:37:33",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.18,
+  "Column3": 119.69488,
+  "Column4": 10,
+  "Column5": 4.53
+ },
+ {
+  "Column1": "2018-10-05 06:32:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.93,
+  "Column3": 119.79673,
+  "Column4": 12.5,
+  "Column5": 3.68
+ },
+ {
+  "Column1": "2018-10-05 06:25:03",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.64,
+  "Column3": 120.32491,
+  "Column4": 10,
+  "Column5": 3.15
+ },
+ {
+  "Column1": "2018-10-05 06:14:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.05,
+  "Column3": 120.18913,
+  "Column4": 133.7,
+  "Column5": 3.49
+ },
+ {
+  "Column1": "2018-10-05 05:19:30",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.41,
+  "Column3": 120.40146,
+  "Column4": 17.8,
+  "Column5": 3.83
+ },
+ {
+  "Column1": "2018-10-05 04:54:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.23,
+  "Column3": 119.23215,
+  "Column4": 10,
+  "Column5": 3.48
+ },
+ {
+  "Column1": "2018-10-05 01:50:26",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.33,
+  "Column3": 118.74647,
+  "Column4": 138.6,
+  "Column5": 4.3
+ },
+ {
+  "Column1": "2018-10-05 00:16:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.54,
+  "Column3": 120.38706,
+  "Column4": 10,
+  "Column5": 3.18
+ },
+ {
+  "Column1": "2018-10-04 23:52:16",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.36,
+  "Column3": 120.03992,
+  "Column4": 10,
+  "Column5": 3.57
+ },
+ {
+  "Column1": "2018-10-04 22:08:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.24,
+  "Column3": 120.3076,
+  "Column4": 10,
+  "Column5": 4.64
+ },
+ {
+  "Column1": "2018-10-04 22:07:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.2,
+  "Column3": 120.43731,
+  "Column4": 10,
+  "Column5": 4.61
+ },
+ {
+  "Column1": "2018-10-04 22:07:20",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.24,
+  "Column3": 120.32846,
+  "Column4": 10,
+  "Column5": 4.55
+ },
+ {
+  "Column1": "2018-10-04 21:14:12",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.32,
+  "Column3": 120.42329,
+  "Column4": 10,
+  "Column5": 3.19
+ },
+ {
+  "Column1": "2018-10-04 20:40:35",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.33,
+  "Column3": 120.67777,
+  "Column4": 10,
+  "Column5": 4.46
+ },
+ {
+  "Column1": "2018-10-04 18:59:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.89,
+  "Column3": 121.23875,
+  "Column4": 22,
+  "Column5": 3.75
+ },
+ {
+  "Column1": "2018-10-04 18:45:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.31,
+  "Column3": 120.50193,
+  "Column4": 10,
+  "Column5": 3.3
+ },
+ {
+  "Column1": "2018-10-04 18:30:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.39,
+  "Column3": 120.59333,
+  "Column4": 12.9,
+  "Column5": 4.43
+ },
+ {
+  "Column1": "2018-10-04 18:27:25",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.26,
+  "Column3": 120.51109,
+  "Column4": 10,
+  "Column5": 4.67
+ },
+ {
+  "Column1": "2018-10-04 18:17:28",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.26,
+  "Column3": 121.14002,
+  "Column4": 10,
+  "Column5": 3.18
+ },
+ {
+  "Column1": "2018-10-04 17:59:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.51,
+  "Column3": 119.85834,
+  "Column4": 10,
+  "Column5": 3.13
+ },
+ {
+  "Column1": "2018-10-04 17:07:41",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.15,
+  "Column3": 119.65115,
+  "Column4": 20,
+  "Column5": 3.36
+ },
+ {
+  "Column1": "2018-10-04 15:29:24",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.36,
+  "Column3": 120.03427,
+  "Column4": 10,
+  "Column5": 3.35
+ },
+ {
+  "Column1": "2018-10-04 10:50:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.13,
+  "Column3": 119.84386,
+  "Column4": 10,
+  "Column5": 3.78
+ },
+ {
+  "Column1": "2018-10-04 10:17:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.02,
+  "Column3": 119.89529,
+  "Column4": 11.3,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-10-04 03:18:12",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1,
+  "Column3": 120.03506,
+  "Column4": 10,
+  "Column5": 3.76
+ },
+ {
+  "Column1": "2018-10-04 01:54:33",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.51,
+  "Column3": 120.35548,
+  "Column4": 16.9,
+  "Column5": 3.66
+ },
+ {
+  "Column1": "2018-10-04 01:39:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.22,
+  "Column3": 119.21899,
+  "Column4": 10,
+  "Column5": 4.21
+ },
+ {
+  "Column1": "2018-10-04 00:22:00",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.68,
+  "Column3": 119.8597,
+  "Column4": 10,
+  "Column5": 3.15
+ },
+ {
+  "Column1": "2018-10-04 00:16:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.83,
+  "Column3": 119.89319,
+  "Column4": 10,
+  "Column5": 3.49
+ },
+ {
+  "Column1": "2018-10-03 23:27:36",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.46,
+  "Column3": 120.03042,
+  "Column4": 10,
+  "Column5": 3.05
+ },
+ {
+  "Column1": "2018-10-03 23:11:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.18,
+  "Column3": 119.3937,
+  "Column4": 14.9,
+  "Column5": 3.91
+ },
+ {
+  "Column1": "2018-10-03 23:06:18",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.29,
+  "Column3": 120.90933,
+  "Column4": 10,
+  "Column5": 3.59
+ },
+ {
+  "Column1": "2018-10-03 22:56:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.39,
+  "Column3": 120.05113,
+  "Column4": 15.4,
+  "Column5": 3.02
+ },
+ {
+  "Column1": "2018-10-03 22:37:41",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.74,
+  "Column3": 120.36089,
+  "Column4": 15.6,
+  "Column5": 3.1
+ },
+ {
+  "Column1": "2018-10-03 22:33:32",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.52,
+  "Column3": 120.20835,
+  "Column4": 19.9,
+  "Column5": 3.26
+ },
+ {
+  "Column1": "2018-10-03 22:13:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.3,
+  "Column3": 120.16006,
+  "Column4": 10.2,
+  "Column5": 3.86
+ },
+ {
+  "Column1": "2018-10-03 22:08:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.18,
+  "Column3": 119.3453,
+  "Column4": 10,
+  "Column5": 3.48
+ },
+ {
+  "Column1": "2018-10-03 21:54:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.49,
+  "Column3": 118.87729,
+  "Column4": 32.1,
+  "Column5": 3.94
+ },
+ {
+  "Column1": "2018-10-03 21:53:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.44,
+  "Column3": 120.05461,
+  "Column4": 10,
+  "Column5": 3.71
+ },
+ {
+  "Column1": "2018-10-03 20:06:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.32,
+  "Column3": 120.27797,
+  "Column4": 18.3,
+  "Column5": 3.13
+ },
+ {
+  "Column1": "2018-10-03 19:59:48",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.22,
+  "Column3": 120.93201,
+  "Column4": 10,
+  "Column5": 2.95
+ },
+ {
+  "Column1": "2018-10-03 19:37:11",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.2,
+  "Column3": 119.81776,
+  "Column4": 25.8,
+  "Column5": 3.04
+ },
+ {
+  "Column1": "2018-10-03 18:36:36",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.21,
+  "Column3": 119.50735,
+  "Column4": 10,
+  "Column5": 3.62
+ },
+ {
+  "Column1": "2018-10-03 18:18:42",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.27,
+  "Column3": 120.33767,
+  "Column4": 10,
+  "Column5": 3.37
+ },
+ {
+  "Column1": "2018-10-03 18:15:06",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.09,
+  "Column3": 119.81592,
+  "Column4": 12.1,
+  "Column5": 4.19
+ },
+ {
+  "Column1": "2018-10-03 18:10:18",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.02,
+  "Column3": 119.49845,
+  "Column4": 10,
+  "Column5": 4.07
+ },
+ {
+  "Column1": "2018-10-03 16:51:36",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.43,
+  "Column3": 120.03386,
+  "Column4": 18,
+  "Column5": 4.38
+ },
+ {
+  "Column1": "2018-10-03 16:34:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.4,
+  "Column3": 120.07345,
+  "Column4": 10,
+  "Column5": 3.28
+ },
+ {
+  "Column1": "2018-10-03 14:43:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.3,
+  "Column3": 119.77503,
+  "Column4": 10,
+  "Column5": 3.32
+ },
+ {
+  "Column1": "2018-10-03 14:11:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.26,
+  "Column3": 119.61334,
+  "Column4": 12.6,
+  "Column5": 3.48
+ },
+ {
+  "Column1": "2018-10-03 12:34:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.55,
+  "Column3": 120.24822,
+  "Column4": 18.5,
+  "Column5": 3.11
+ },
+ {
+  "Column1": "2018-10-03 12:24:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.05,
+  "Column3": 119.39909,
+  "Column4": 10,
+  "Column5": 3.63
+ },
+ {
+  "Column1": "2018-10-03 12:20:10",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.26,
+  "Column3": 119.30292,
+  "Column4": 10,
+  "Column5": 3.23
+ },
+ {
+  "Column1": "2018-10-03 12:12:59",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.8,
+  "Column3": 120.03977,
+  "Column4": 10,
+  "Column5": 3.6
+ },
+ {
+  "Column1": "2018-10-03 11:10:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.47,
+  "Column3": 120.05489,
+  "Column4": 10,
+  "Column5": 4.38
+ },
+ {
+  "Column1": "2018-10-03 10:37:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.8,
+  "Column3": 119.62332,
+  "Column4": 15,
+  "Column5": 3.44
+ },
+ {
+  "Column1": "2018-10-03 09:25:28",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.64,
+  "Column3": 119.73107,
+  "Column4": 35.7,
+  "Column5": 3.53
+ },
+ {
+  "Column1": "2018-10-03 09:15:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.24,
+  "Column3": 120.90616,
+  "Column4": 10,
+  "Column5": 4.58
+ },
+ {
+  "Column1": "2018-10-03 09:00:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.66,
+  "Column3": 119.80299,
+  "Column4": 16.5,
+  "Column5": 3.84
+ },
+ {
+  "Column1": "2018-10-03 08:50:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.96,
+  "Column3": 119.97354,
+  "Column4": 41.2,
+  "Column5": 4.19
+ },
+ {
+  "Column1": "2018-10-03 08:02:52",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.9,
+  "Column3": 119.95674,
+  "Column4": 19.4,
+  "Column5": 3.83
+ },
+ {
+  "Column1": "2018-10-03 07:18:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.5,
+  "Column3": 119.53346,
+  "Column4": 10,
+  "Column5": 3.7
+ },
+ {
+  "Column1": "2018-10-03 07:14:04",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.32,
+  "Column3": 120.91354,
+  "Column4": 10,
+  "Column5": 3.4
+ },
+ {
+  "Column1": "2018-10-03 07:06:11",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.61,
+  "Column3": 120.46918,
+  "Column4": 10,
+  "Column5": 2.9
+ },
+ {
+  "Column1": "2018-10-03 06:31:05",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.61,
+  "Column3": 120.34887,
+  "Column4": 10,
+  "Column5": 4.41
+ },
+ {
+  "Column1": "2018-10-03 06:21:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.31,
+  "Column3": 120.91365,
+  "Column4": 10,
+  "Column5": 4.46
+ },
+ {
+  "Column1": "2018-10-03 06:14:11",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.3,
+  "Column3": 120.95876,
+  "Column4": 10,
+  "Column5": 4.69
+ },
+ {
+  "Column1": "2018-10-03 05:36:33",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.31,
+  "Column3": 119.90532,
+  "Column4": 10,
+  "Column5": 4.55
+ },
+ {
+  "Column1": "2018-10-03 05:35:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.28,
+  "Column3": 119.2407,
+  "Column4": 10,
+  "Column5": 4.57
+ },
+ {
+  "Column1": "2018-10-03 05:26:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.35,
+  "Column3": 119.76234,
+  "Column4": 28.4,
+  "Column5": 3.34
+ },
+ {
+  "Column1": "2018-10-03 04:44:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.05,
+  "Column3": 119.94838,
+  "Column4": 10,
+  "Column5": 4.36
+ },
+ {
+  "Column1": "2018-10-03 04:13:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.79,
+  "Column3": 119.64491,
+  "Column4": 10,
+  "Column5": 3.56
+ },
+ {
+  "Column1": "2018-10-03 04:00:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.07,
+  "Column3": 119.72095,
+  "Column4": 22.6,
+  "Column5": 3.17
+ },
+ {
+  "Column1": "2018-10-03 03:33:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.83,
+  "Column3": 119.91248,
+  "Column4": 10,
+  "Column5": 3.81
+ },
+ {
+  "Column1": "2018-10-03 02:00:42",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.22,
+  "Column3": 119.80419,
+  "Column4": 10,
+  "Column5": 3.9
+ },
+ {
+  "Column1": "2018-10-03 01:00:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.23,
+  "Column3": 120.17148,
+  "Column4": 10,
+  "Column5": 3.84
+ },
+ {
+  "Column1": "2018-10-03 00:40:58",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.11,
+  "Column3": 119.76598,
+  "Column4": 10,
+  "Column5": 3.29
+ },
+ {
+  "Column1": "2018-10-03 00:30:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0,
+  "Column3": 119.83974,
+  "Column4": 10,
+  "Column5": 3.12
+ },
+ {
+  "Column1": "2018-10-03 00:10:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.22,
+  "Column3": 119.90356,
+  "Column4": 10,
+  "Column5": 3.61
+ },
+ {
+  "Column1": "2018-10-02 22:59:11",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.35,
+  "Column3": 119.99883,
+  "Column4": 10,
+  "Column5": 3.36
+ },
+ {
+  "Column1": "2018-10-02 21:30:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.03,
+  "Column3": 119.78885,
+  "Column4": 10,
+  "Column5": 3.8
+ },
+ {
+  "Column1": "2018-10-02 21:06:56",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.04,
+  "Column3": 119.97633,
+  "Column4": 10,
+  "Column5": 4.81
+ },
+ {
+  "Column1": "2018-10-02 19:10:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.21,
+  "Column3": 119.61306,
+  "Column4": 10,
+  "Column5": 3.65
+ },
+ {
+  "Column1": "2018-10-02 17:57:16",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.07,
+  "Column3": 119.51517,
+  "Column4": 21.3,
+  "Column5": 3.09
+ },
+ {
+  "Column1": "2018-10-02 17:13:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.6,
+  "Column3": 119.98064,
+  "Column4": 10,
+  "Column5": 3.81
+ },
+ {
+  "Column1": "2018-10-02 17:07:29",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.64,
+  "Column3": 120.04279,
+  "Column4": 10,
+  "Column5": 4.01
+ },
+ {
+  "Column1": "2018-10-02 16:59:18",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.24,
+  "Column3": 120.03941,
+  "Column4": 10,
+  "Column5": 3.58
+ },
+ {
+  "Column1": "2018-10-02 16:08:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.35,
+  "Column3": 119.92902,
+  "Column4": 10,
+  "Column5": 3.18
+ },
+ {
+  "Column1": "2018-10-02 16:00:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.42,
+  "Column3": 121.49757,
+  "Column4": 10,
+  "Column5": 2.48
+ },
+ {
+  "Column1": "2018-10-02 15:57:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.85,
+  "Column3": 120.19164,
+  "Column4": 21.4,
+  "Column5": 2.98
+ },
+ {
+  "Column1": "2018-10-02 15:26:20",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.51,
+  "Column3": 121.1946,
+  "Column4": 10,
+  "Column5": 2.72
+ },
+ {
+  "Column1": "2018-10-02 15:17:16",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.82,
+  "Column3": 119.77779,
+  "Column4": 10,
+  "Column5": 3.11
+ },
+ {
+  "Column1": "2018-10-02 15:08:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.2,
+  "Column3": 119.40245,
+  "Column4": 10,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-10-02 14:59:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.07,
+  "Column3": 119.78645,
+  "Column4": 18.2,
+  "Column5": 2.83
+ },
+ {
+  "Column1": "2018-10-02 14:42:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.2,
+  "Column3": 119.77844,
+  "Column4": 10,
+  "Column5": 3.34
+ },
+ {
+  "Column1": "2018-10-02 14:21:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.07,
+  "Column3": 119.65189,
+  "Column4": 10,
+  "Column5": 3.42
+ },
+ {
+  "Column1": "2018-10-02 14:09:25",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.64,
+  "Column3": 120.08883,
+  "Column4": 10,
+  "Column5": 2.93
+ },
+ {
+  "Column1": "2018-10-02 13:56:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.43,
+  "Column3": 119.77916,
+  "Column4": 10,
+  "Column5": 3.23
+ },
+ {
+  "Column1": "2018-10-02 13:48:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.46,
+  "Column3": 120.19482,
+  "Column4": 10,
+  "Column5": 3.69
+ },
+ {
+  "Column1": "2018-10-02 13:43:07",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.39,
+  "Column3": 119.47911,
+  "Column4": 31.2,
+  "Column5": 3.33
+ },
+ {
+  "Column1": "2018-10-02 12:01:32",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.27,
+  "Column3": 119.29775,
+  "Column4": 10,
+  "Column5": 3.6
+ },
+ {
+  "Column1": "2018-10-02 11:35:15",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.4,
+  "Column3": 120.07339,
+  "Column4": 10,
+  "Column5": 2.9
+ },
+ {
+  "Column1": "2018-10-02 09:45:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.98,
+  "Column3": 121.07548,
+  "Column4": 12.8,
+  "Column5": 4.67
+ },
+ {
+  "Column1": "2018-10-02 09:08:13",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.16,
+  "Column3": 119.69789,
+  "Column4": 10,
+  "Column5": 3.05
+ },
+ {
+  "Column1": "2018-10-02 08:02:55",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.39,
+  "Column3": 120.18664,
+  "Column4": 10,
+  "Column5": 4.04
+ },
+ {
+  "Column1": "2018-10-02 07:56:12",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.56,
+  "Column3": 119.75265,
+  "Column4": 18.8,
+  "Column5": 4.56
+ },
+ {
+  "Column1": "2018-10-02 07:51:50",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.46,
+  "Column3": 119.67059,
+  "Column4": 10,
+  "Column5": 2.64
+ },
+ {
+  "Column1": "2018-10-02 06:07:26",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.08,
+  "Column3": 119.83293,
+  "Column4": 10,
+  "Column5": 3.91
+ },
+ {
+  "Column1": "2018-10-02 04:59:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.59,
+  "Column3": 120.19182,
+  "Column4": 10,
+  "Column5": 5.49
+ },
+ {
+  "Column1": "2018-10-02 04:38:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.42,
+  "Column3": 119.93653,
+  "Column4": 10,
+  "Column5": 3.31
+ },
+ {
+  "Column1": "2018-10-02 04:21:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.66,
+  "Column3": 119.42357,
+  "Column4": 75.9,
+  "Column5": 3.5
+ },
+ {
+  "Column1": "2018-10-02 03:40:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.08,
+  "Column3": 119.82269,
+  "Column4": 10,
+  "Column5": 3.25
+ },
+ {
+  "Column1": "2018-10-02 03:34:30",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.4,
+  "Column3": 119.81772,
+  "Column4": 23.8,
+  "Column5": 3.22
+ },
+ {
+  "Column1": "2018-10-02 02:36:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.02,
+  "Column3": 119.52543,
+  "Column4": 10,
+  "Column5": 4.1
+ },
+ {
+  "Column1": "2018-10-02 02:14:16",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2,
+  "Column3": 121.2123,
+  "Column4": 10,
+  "Column5": 3.22
+ },
+ {
+  "Column1": "2018-10-02 02:09:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.27,
+  "Column3": 120.31879,
+  "Column4": 10,
+  "Column5": 3.6
+ },
+ {
+  "Column1": "2018-10-02 01:41:10",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.03,
+  "Column3": 119.25912,
+  "Column4": 10,
+  "Column5": 3.22
+ },
+ {
+  "Column1": "2018-10-02 01:35:36",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.31,
+  "Column3": 119.75034,
+  "Column4": 10,
+  "Column5": 3.26
+ },
+ {
+  "Column1": "2018-10-02 01:27:48",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.22,
+  "Column3": 120.21125,
+  "Column4": 10,
+  "Column5": 3.13
+ },
+ {
+  "Column1": "2018-10-02 01:25:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.55,
+  "Column3": 120.1524,
+  "Column4": 10,
+  "Column5": 2.81
+ },
+ {
+  "Column1": "2018-10-02 01:21:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.62,
+  "Column3": 120.20901,
+  "Column4": 10,
+  "Column5": 3.27
+ },
+ {
+  "Column1": "2018-10-02 01:10:15",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.6,
+  "Column3": 121.61671,
+  "Column4": 15.2,
+  "Column5": 3.55
+ },
+ {
+  "Column1": "2018-10-01 23:46:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.61,
+  "Column3": 119.86422,
+  "Column4": 10,
+  "Column5": 5.33
+ },
+ {
+  "Column1": "2018-10-01 23:43:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.01,
+  "Column3": 119.94402,
+  "Column4": 10,
+  "Column5": 3.54
+ },
+ {
+  "Column1": "2018-10-01 22:47:51",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.51,
+  "Column3": 119.59732,
+  "Column4": 10.2,
+  "Column5": 3.13
+ },
+ {
+  "Column1": "2018-10-01 22:35:19",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.16,
+  "Column3": 119.64233,
+  "Column4": 10,
+  "Column5": 3.61
+ },
+ {
+  "Column1": "2018-10-01 22:28:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.04,
+  "Column3": 119.85575,
+  "Column4": 10,
+  "Column5": 2.83
+ },
+ {
+  "Column1": "2018-10-01 22:25:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.31,
+  "Column3": 119.76089,
+  "Column4": 13.6,
+  "Column5": 3.36
+ },
+ {
+  "Column1": "2018-10-01 22:16:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.3,
+  "Column3": 119.95807,
+  "Column4": 10,
+  "Column5": 2.69
+ },
+ {
+  "Column1": "2018-10-01 22:09:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.06,
+  "Column3": 119.37227,
+  "Column4": 10,
+  "Column5": 3.62
+ },
+ {
+  "Column1": "2018-10-01 21:37:20",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.52,
+  "Column3": 120.12075,
+  "Column4": 12.4,
+  "Column5": 2.94
+ },
+ {
+  "Column1": "2018-10-01 21:34:39",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.24,
+  "Column3": 121.12546,
+  "Column4": 10,
+  "Column5": 3.41
+ },
+ {
+  "Column1": "2018-10-01 21:04:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.24,
+  "Column3": 119.56679,
+  "Column4": 10,
+  "Column5": 2.84
+ },
+ {
+  "Column1": "2018-10-01 20:46:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.56,
+  "Column3": 120.47295,
+  "Column4": 10,
+  "Column5": 2.92
+ },
+ {
+  "Column1": "2018-10-01 20:35:04",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.66,
+  "Column3": 120.33755,
+  "Column4": 10,
+  "Column5": 3.26
+ },
+ {
+  "Column1": "2018-10-01 20:22:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.63,
+  "Column3": 119.74348,
+  "Column4": 10,
+  "Column5": 3.14
+ },
+ {
+  "Column1": "2018-10-01 19:35:15",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.15,
+  "Column3": 120.01018,
+  "Column4": 10,
+  "Column5": 3.71
+ },
+ {
+  "Column1": "2018-10-01 19:22:12",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.32,
+  "Column3": 120.07961,
+  "Column4": 10,
+  "Column5": 4.68
+ },
+ {
+  "Column1": "2018-10-01 19:17:35",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.23,
+  "Column3": 119.50071,
+  "Column4": 10,
+  "Column5": 4.05
+ },
+ {
+  "Column1": "2018-10-01 18:53:30",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.12,
+  "Column3": 119.62038,
+  "Column4": 10,
+  "Column5": 3.92
+ },
+ {
+  "Column1": "2018-10-01 18:18:04",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.35,
+  "Column3": 119.89693,
+  "Column4": 10,
+  "Column5": 3
+ },
+ {
+  "Column1": "2018-10-01 18:05:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.01,
+  "Column3": 119.63527,
+  "Column4": 14.8,
+  "Column5": 3.3
+ },
+ {
+  "Column1": "2018-10-01 17:39:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.57,
+  "Column3": 119.85421,
+  "Column4": 11.2,
+  "Column5": 5.08
+ },
+ {
+  "Column1": "2018-10-01 16:15:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.65,
+  "Column3": 119.94469,
+  "Column4": 10,
+  "Column5": 3.97
+ },
+ {
+  "Column1": "2018-10-01 16:01:39",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.5,
+  "Column3": 119.9176,
+  "Column4": 10,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-10-01 14:34:00",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.24,
+  "Column3": 119.39109,
+  "Column4": 10,
+  "Column5": 3.68
+ },
+ {
+  "Column1": "2018-10-01 14:26:55",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.2,
+  "Column3": 119.73939,
+  "Column4": 10,
+  "Column5": 3.36
+ },
+ {
+  "Column1": "2018-10-01 13:51:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.08,
+  "Column3": 119.65211,
+  "Column4": 10,
+  "Column5": 3.52
+ },
+ {
+  "Column1": "2018-10-01 12:07:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.25,
+  "Column3": 119.96027,
+  "Column4": 10,
+  "Column5": 3.7
+ },
+ {
+  "Column1": "2018-10-01 11:54:59",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.78,
+  "Column3": 119.74134,
+  "Column4": 10,
+  "Column5": 3.36
+ },
+ {
+  "Column1": "2018-10-01 11:24:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.32,
+  "Column3": 119.4,
+  "Column4": 10,
+  "Column5": 3.61
+ },
+ {
+  "Column1": "2018-10-01 10:39:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.42,
+  "Column3": 119.39465,
+  "Column4": 10,
+  "Column5": 3.07
+ },
+ {
+  "Column1": "2018-10-01 10:28:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.2,
+  "Column3": 119.81306,
+  "Column4": 10,
+  "Column5": 2.94
+ },
+ {
+  "Column1": "2018-10-01 10:06:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.61,
+  "Column3": 119.95748,
+  "Column4": 10,
+  "Column5": 4.04
+ },
+ {
+  "Column1": "2018-10-01 10:01:58",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.15,
+  "Column3": 119.49628,
+  "Column4": 10,
+  "Column5": 3.05
+ },
+ {
+  "Column1": "2018-10-01 09:46:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.16,
+  "Column3": 119.54073,
+  "Column4": 10,
+  "Column5": 2.96
+ },
+ {
+  "Column1": "2018-10-01 09:08:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0,
+  "Column3": 119.46582,
+  "Column4": 10,
+  "Column5": 3.28
+ },
+ {
+  "Column1": "2018-10-01 08:33:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.49,
+  "Column3": 120.06944,
+  "Column4": 10,
+  "Column5": 3.45
+ },
+ {
+  "Column1": "2018-10-01 08:18:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -3.43,
+  "Column3": 119.11713,
+  "Column4": 43.3,
+  "Column5": 3.44
+ },
+ {
+  "Column1": "2018-10-01 08:12:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.6,
+  "Column3": 119.65648,
+  "Column4": 10,
+  "Column5": 3.03
+ },
+ {
+  "Column1": "2018-10-01 08:05:26",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.04,
+  "Column3": 119.53791,
+  "Column4": 10,
+  "Column5": 3.11
+ },
+ {
+  "Column1": "2018-10-01 07:56:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.05,
+  "Column3": 119.89582,
+  "Column4": 10,
+  "Column5": 2.72
+ },
+ {
+  "Column1": "2018-10-01 07:46:28",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.19,
+  "Column3": 119.54028,
+  "Column4": 10,
+  "Column5": 3.01
+ },
+ {
+  "Column1": "2018-10-01 07:36:35",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.01,
+  "Column3": 119.67911,
+  "Column4": 10,
+  "Column5": 3.75
+ },
+ {
+  "Column1": "2018-10-01 07:30:04",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.48,
+  "Column3": 119.95022,
+  "Column4": 22.7,
+  "Column5": 3.25
+ },
+ {
+  "Column1": "2018-10-01 07:27:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.06,
+  "Column3": 119.72284,
+  "Column4": 10,
+  "Column5": 3.09
+ },
+ {
+  "Column1": "2018-10-01 07:16:15",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.39,
+  "Column3": 119.89376,
+  "Column4": 10,
+  "Column5": 3.2
+ },
+ {
+  "Column1": "2018-10-01 07:04:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.25,
+  "Column3": 119.82436,
+  "Column4": 10,
+  "Column5": 3.21
+ },
+ {
+  "Column1": "2018-10-01 06:43:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.28,
+  "Column3": 119.50567,
+  "Column4": 10,
+  "Column5": 3.36
+ },
+ {
+  "Column1": "2018-10-01 06:35:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.37,
+  "Column3": 120.89967,
+  "Column4": 10,
+  "Column5": 3.25
+ },
+ {
+  "Column1": "2018-10-01 06:12:54",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.96,
+  "Column3": 120.15325,
+  "Column4": 10,
+  "Column5": 3.53
+ },
+ {
+  "Column1": "2018-10-01 05:54:56",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.15,
+  "Column3": 119.53981,
+  "Column4": 10,
+  "Column5": 3.36
+ },
+ {
+  "Column1": "2018-10-01 05:43:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.01,
+  "Column3": 119.62781,
+  "Column4": 10,
+  "Column5": 5.24
+ },
+ {
+  "Column1": "2018-10-01 05:22:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.92,
+  "Column3": 119.68348,
+  "Column4": 10.3,
+  "Column5": 3.21
+ },
+ {
+  "Column1": "2018-10-01 05:12:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.16,
+  "Column3": 119.8238,
+  "Column4": 10,
+  "Column5": 2.76
+ },
+ {
+  "Column1": "2018-10-01 05:04:23",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.03,
+  "Column3": 119.66785,
+  "Column4": 10,
+  "Column5": 2.73
+ },
+ {
+  "Column1": "2018-10-01 04:21:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.43,
+  "Column3": 120.32047,
+  "Column4": 13.7,
+  "Column5": 3.07
+ },
+ {
+  "Column1": "2018-10-01 04:05:29",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.01,
+  "Column3": 119.82084,
+  "Column4": 10,
+  "Column5": 3.33
+ },
+ {
+  "Column1": "2018-10-01 03:57:51",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.72,
+  "Column3": 119.95785,
+  "Column4": 10,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-10-01 03:56:29",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.76,
+  "Column3": 119.95113,
+  "Column4": 10,
+  "Column5": 3.72
+ },
+ {
+  "Column1": "2018-10-01 03:22:59",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.09,
+  "Column3": 119.67856,
+  "Column4": 21.1,
+  "Column5": 3.92
+ },
+ {
+  "Column1": "2018-10-01 02:23:16",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.85,
+  "Column3": 120.2692,
+  "Column4": 10.2,
+  "Column5": 3.26
+ },
+ {
+  "Column1": "2018-10-01 02:12:58",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.5,
+  "Column3": 119.71767,
+  "Column4": 14.9,
+  "Column5": 3.71
+ },
+ {
+  "Column1": "2018-10-01 01:44:18",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.14,
+  "Column3": 120.10546,
+  "Column4": 10,
+  "Column5": 3.6
+ },
+ {
+  "Column1": "2018-10-01 00:30:06",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.2,
+  "Column3": 119.98109,
+  "Column4": 10,
+  "Column5": 3.87
+ },
+ {
+  "Column1": "2018-09-30 23:51:06",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.31,
+  "Column3": 120.00029,
+  "Column4": 20.6,
+  "Column5": 3.37
+ },
+ {
+  "Column1": "2018-09-30 23:26:13",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.51,
+  "Column3": 120.26894,
+  "Column4": 10,
+  "Column5": 3.84
+ },
+ {
+  "Column1": "2018-09-30 22:31:23",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.49,
+  "Column3": 120.10332,
+  "Column4": 10,
+  "Column5": 3.57
+ },
+ {
+  "Column1": "2018-09-30 22:00:11",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.04,
+  "Column3": 119.70568,
+  "Column4": 10,
+  "Column5": 3.85
+ },
+ {
+  "Column1": "2018-09-30 21:16:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.27,
+  "Column3": 120.10836,
+  "Column4": 10,
+  "Column5": 3.87
+ },
+ {
+  "Column1": "2018-09-30 20:59:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.36,
+  "Column3": 120.16366,
+  "Column4": 10,
+  "Column5": 3.55
+ },
+ {
+  "Column1": "2018-09-30 20:22:15",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.89,
+  "Column3": 120.33534,
+  "Column4": 10,
+  "Column5": 3.15
+ },
+ {
+  "Column1": "2018-09-30 20:01:13",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.84,
+  "Column3": 119.90644,
+  "Column4": 10,
+  "Column5": 3.25
+ },
+ {
+  "Column1": "2018-09-30 19:43:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.53,
+  "Column3": 119.72202,
+  "Column4": 25.4,
+  "Column5": 3.48
+ },
+ {
+  "Column1": "2018-09-30 19:39:50",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.54,
+  "Column3": 120.07423,
+  "Column4": 10,
+  "Column5": 3.47
+ },
+ {
+  "Column1": "2018-09-30 19:16:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.53,
+  "Column3": 119.97046,
+  "Column4": 10,
+  "Column5": 3.68
+ },
+ {
+  "Column1": "2018-09-30 19:14:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.47,
+  "Column3": 119.92111,
+  "Column4": 10,
+  "Column5": 3.52
+ },
+ {
+  "Column1": "2018-09-30 18:22:42",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.5,
+  "Column3": 119.78793,
+  "Column4": 10,
+  "Column5": 3.6
+ },
+ {
+  "Column1": "2018-09-30 17:54:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.48,
+  "Column3": 119.96951,
+  "Column4": 10,
+  "Column5": 3.52
+ },
+ {
+  "Column1": "2018-09-30 17:28:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.16,
+  "Column3": 119.44318,
+  "Column4": 10,
+  "Column5": 3.94
+ },
+ {
+  "Column1": "2018-09-30 17:15:16",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.99,
+  "Column3": 120.13242,
+  "Column4": 33.9,
+  "Column5": 3.57
+ },
+ {
+  "Column1": "2018-09-30 17:07:39",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.14,
+  "Column3": 119.64391,
+  "Column4": 10,
+  "Column5": 3.52
+ },
+ {
+  "Column1": "2018-09-30 16:50:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.13,
+  "Column3": 119.69189,
+  "Column4": 10,
+  "Column5": 3.52
+ },
+ {
+  "Column1": "2018-09-30 16:39:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.34,
+  "Column3": 120.00927,
+  "Column4": 12.4,
+  "Column5": 4.35
+ },
+ {
+  "Column1": "2018-09-30 14:38:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.32,
+  "Column3": 120.18719,
+  "Column4": 20.9,
+  "Column5": 4.8
+ },
+ {
+  "Column1": "2018-09-30 14:31:10",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.58,
+  "Column3": 120.13727,
+  "Column4": 23,
+  "Column5": 3.72
+ },
+ {
+  "Column1": "2018-09-30 14:07:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.04,
+  "Column3": 119.48746,
+  "Column4": 10,
+  "Column5": 4.08
+ },
+ {
+  "Column1": "2018-09-30 14:01:18",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.35,
+  "Column3": 119.86886,
+  "Column4": 10,
+  "Column5": 3.56
+ },
+ {
+  "Column1": "2018-09-30 13:55:36",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.07,
+  "Column3": 119.75423,
+  "Column4": 10,
+  "Column5": 3.48
+ },
+ {
+  "Column1": "2018-09-30 13:50:42",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 119.99347,
+  "Column4": 10,
+  "Column5": 3.54
+ },
+ {
+  "Column1": "2018-09-30 13:38:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.89,
+  "Column3": 119.60063,
+  "Column4": 10,
+  "Column5": 3.37
+ },
+ {
+  "Column1": "2018-09-30 12:15:12",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.38,
+  "Column3": 120.10889,
+  "Column4": 10,
+  "Column5": 3.52
+ },
+ {
+  "Column1": "2018-09-30 11:59:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.46,
+  "Column3": 120.20662,
+  "Column4": 10,
+  "Column5": 3.72
+ },
+ {
+  "Column1": "2018-09-30 10:28:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.31,
+  "Column3": 119.86239,
+  "Column4": 10,
+  "Column5": 3.46
+ },
+ {
+  "Column1": "2018-09-30 10:13:30",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.01,
+  "Column3": 119.76051,
+  "Column4": 10,
+  "Column5": 4.22
+ },
+ {
+  "Column1": "2018-09-30 09:47:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.43,
+  "Column3": 119.96724,
+  "Column4": 10,
+  "Column5": 3.47
+ },
+ {
+  "Column1": "2018-09-30 08:34:55",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.44,
+  "Column3": 120.0984,
+  "Column4": 10,
+  "Column5": 3.75
+ },
+ {
+  "Column1": "2018-09-30 06:44:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.49,
+  "Column3": 120.43947,
+  "Column4": 10,
+  "Column5": 3.34
+ },
+ {
+  "Column1": "2018-09-30 05:26:56",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.62,
+  "Column3": 120.07136,
+  "Column4": 10,
+  "Column5": 3.32
+ },
+ {
+  "Column1": "2018-09-30 04:50:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.43,
+  "Column3": 120.56701,
+  "Column4": 10,
+  "Column5": 3.14
+ },
+ {
+  "Column1": "2018-09-30 04:45:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0,
+  "Column3": 119.70248,
+  "Column4": 10,
+  "Column5": 3.07
+ },
+ {
+  "Column1": "2018-09-30 04:29:30",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.6,
+  "Column3": 120.25068,
+  "Column4": 15.6,
+  "Column5": 3.14
+ },
+ {
+  "Column1": "2018-09-30 04:20:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.78,
+  "Column3": 119.90537,
+  "Column4": 10,
+  "Column5": 3.27
+ },
+ {
+  "Column1": "2018-09-30 04:11:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.12,
+  "Column3": 119.61996,
+  "Column4": 10,
+  "Column5": 3.19
+ },
+ {
+  "Column1": "2018-09-30 03:58:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.41,
+  "Column3": 119.83885,
+  "Column4": 32.5,
+  "Column5": 3.54
+ },
+ {
+  "Column1": "2018-09-30 03:53:33",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.11,
+  "Column3": 119.56925,
+  "Column4": 10,
+  "Column5": 4.27
+ },
+ {
+  "Column1": "2018-09-30 03:30:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.01,
+  "Column3": 119.51068,
+  "Column4": 10,
+  "Column5": 3.67
+ },
+ {
+  "Column1": "2018-09-30 03:10:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.27,
+  "Column3": 119.43343,
+  "Column4": 10,
+  "Column5": 3.61
+ },
+ {
+  "Column1": "2018-09-30 02:41:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.64,
+  "Column3": 120.23096,
+  "Column4": 10,
+  "Column5": 4.39
+ },
+ {
+  "Column1": "2018-09-30 02:15:18",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.66,
+  "Column3": 120.06501,
+  "Column4": 10,
+  "Column5": 3.54
+ },
+ {
+  "Column1": "2018-09-30 01:59:52",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.54,
+  "Column3": 120.10196,
+  "Column4": 10,
+  "Column5": 3.84
+ },
+ {
+  "Column1": "2018-09-29 23:54:50",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.05,
+  "Column3": 119.66939,
+  "Column4": 10,
+  "Column5": 4.09
+ },
+ {
+  "Column1": "2018-09-29 23:48:58",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.42,
+  "Column3": 120.00809,
+  "Column4": 10,
+  "Column5": 3.75
+ },
+ {
+  "Column1": "2018-09-29 23:40:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.92,
+  "Column3": 120.0589,
+  "Column4": 10,
+  "Column5": 3.59
+ },
+ {
+  "Column1": "2018-09-29 23:22:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.27,
+  "Column3": 122.33618,
+  "Column4": 27.2,
+  "Column5": 3.03
+ },
+ {
+  "Column1": "2018-09-29 23:09:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.73,
+  "Column3": 119.74991,
+  "Column4": 10,
+  "Column5": 3.46
+ },
+ {
+  "Column1": "2018-09-29 22:46:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.02,
+  "Column3": 119.592,
+  "Column4": 10,
+  "Column5": 3.51
+ },
+ {
+  "Column1": "2018-09-29 22:37:12",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.08,
+  "Column3": 119.4843,
+  "Column4": 10,
+  "Column5": 2.82
+ },
+ {
+  "Column1": "2018-09-29 22:30:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.27,
+  "Column3": 119.65863,
+  "Column4": 10,
+  "Column5": 3.07
+ },
+ {
+  "Column1": "2018-09-29 21:42:28",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.35,
+  "Column3": 119.98336,
+  "Column4": 10,
+  "Column5": 4.02
+ },
+ {
+  "Column1": "2018-09-29 21:42:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.41,
+  "Column3": 119.99111,
+  "Column4": 10,
+  "Column5": 4.07
+ },
+ {
+  "Column1": "2018-09-29 21:39:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.17,
+  "Column3": 119.51461,
+  "Column4": 10,
+  "Column5": 3.4
+ },
+ {
+  "Column1": "2018-09-29 21:28:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.34,
+  "Column3": 119.91264,
+  "Column4": 10,
+  "Column5": 3.47
+ },
+ {
+  "Column1": "2018-09-29 20:59:35",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.56,
+  "Column3": 120.09921,
+  "Column4": 10,
+  "Column5": 3.58
+ },
+ {
+  "Column1": "2018-09-29 20:53:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.28,
+  "Column3": 120.25212,
+  "Column4": 10,
+  "Column5": 3.38
+ },
+ {
+  "Column1": "2018-09-29 20:22:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.5,
+  "Column3": 119.8914,
+  "Column4": 22.9,
+  "Column5": 3.81
+ },
+ {
+  "Column1": "2018-09-29 20:09:18",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.5,
+  "Column3": 120.04828,
+  "Column4": 10,
+  "Column5": 4.3
+ },
+ {
+  "Column1": "2018-09-29 20:02:03",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.21,
+  "Column3": 120.12501,
+  "Column4": 10,
+  "Column5": 3.91
+ },
+ {
+  "Column1": "2018-09-29 19:15:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.48,
+  "Column3": 120.08552,
+  "Column4": 10,
+  "Column5": 4.72
+ },
+ {
+  "Column1": "2018-09-29 19:07:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.26,
+  "Column3": 120.98884,
+  "Column4": 10,
+  "Column5": 3.79
+ },
+ {
+  "Column1": "2018-09-29 19:01:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.17,
+  "Column3": 119.68436,
+  "Column4": 10,
+  "Column5": 3.37
+ },
+ {
+  "Column1": "2018-09-29 18:57:32",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.31,
+  "Column3": 119.70818,
+  "Column4": 10,
+  "Column5": 3.53
+ },
+ {
+  "Column1": "2018-09-29 18:40:33",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.36,
+  "Column3": 119.56376,
+  "Column4": 10,
+  "Column5": 4.15
+ },
+ {
+  "Column1": "2018-09-29 18:30:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.26,
+  "Column3": 120.1319,
+  "Column4": 10,
+  "Column5": 3.91
+ },
+ {
+  "Column1": "2018-09-29 18:17:23",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.46,
+  "Column3": 120.27302,
+  "Column4": 10,
+  "Column5": 3.3
+ },
+ {
+  "Column1": "2018-09-29 18:08:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.96,
+  "Column3": 119.74773,
+  "Column4": 10,
+  "Column5": 3.11
+ },
+ {
+  "Column1": "2018-09-29 17:57:58",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.02,
+  "Column3": 119.43633,
+  "Column4": 10,
+  "Column5": 4.09
+ },
+ {
+  "Column1": "2018-09-29 17:19:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.24,
+  "Column3": 120.08698,
+  "Column4": 10,
+  "Column5": 4.03
+ },
+ {
+  "Column1": "2018-09-29 17:15:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.19,
+  "Column3": 120.0831,
+  "Column4": 10,
+  "Column5": 4.34
+ },
+ {
+  "Column1": "2018-09-29 16:36:06",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.06,
+  "Column3": 119.81377,
+  "Column4": 10,
+  "Column5": 3.66
+ },
+ {
+  "Column1": "2018-09-29 16:30:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 119.96142,
+  "Column4": 10,
+  "Column5": 4.11
+ },
+ {
+  "Column1": "2018-09-29 16:07:36",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.51,
+  "Column3": 120.07095,
+  "Column4": 10,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-09-29 15:54:58",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.5,
+  "Column3": 120.21623,
+  "Column4": 10,
+  "Column5": 3.16
+ },
+ {
+  "Column1": "2018-09-29 15:49:39",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.38,
+  "Column3": 119.84444,
+  "Column4": 13.2,
+  "Column5": 3.5
+ },
+ {
+  "Column1": "2018-09-29 15:41:52",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.32,
+  "Column3": 120.09667,
+  "Column4": 10,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-09-29 15:40:16",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.13,
+  "Column3": 119.77617,
+  "Column4": 10,
+  "Column5": 3.9
+ },
+ {
+  "Column1": "2018-09-29 15:12:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.02,
+  "Column3": 119.68037,
+  "Column4": 10,
+  "Column5": 3.68
+ },
+ {
+  "Column1": "2018-09-29 14:30:24",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.52,
+  "Column3": 120.10329,
+  "Column4": 10,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-09-29 14:26:19",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.54,
+  "Column3": 120.14675,
+  "Column4": 10,
+  "Column5": 4.4
+ },
+ {
+  "Column1": "2018-09-29 14:11:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.56,
+  "Column3": 119.9693,
+  "Column4": 10,
+  "Column5": 3.46
+ },
+ {
+  "Column1": "2018-09-29 13:41:51",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.14,
+  "Column3": 119.38952,
+  "Column4": 10,
+  "Column5": 3.81
+ },
+ {
+  "Column1": "2018-09-29 13:27:23",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.04,
+  "Column3": 119.8411,
+  "Column4": 10,
+  "Column5": 3.37
+ },
+ {
+  "Column1": "2018-09-29 12:57:30",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.53,
+  "Column3": 120.25819,
+  "Column4": 10,
+  "Column5": 3.49
+ },
+ {
+  "Column1": "2018-09-29 12:48:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.43,
+  "Column3": 120.06888,
+  "Column4": 10,
+  "Column5": 3.71
+ },
+ {
+  "Column1": "2018-09-29 12:21:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.24,
+  "Column3": 120.30166,
+  "Column4": 10,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-09-29 12:11:07",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.65,
+  "Column3": 119.93579,
+  "Column4": 10,
+  "Column5": 4.16
+ },
+ {
+  "Column1": "2018-09-29 11:53:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.16,
+  "Column3": 119.57528,
+  "Column4": 10,
+  "Column5": 3.92
+ },
+ {
+  "Column1": "2018-09-29 11:43:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.2,
+  "Column3": 119.84173,
+  "Column4": 10,
+  "Column5": 3.83
+ },
+ {
+  "Column1": "2018-09-29 11:36:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 120.10777,
+  "Column4": 10,
+  "Column5": 4.01
+ },
+ {
+  "Column1": "2018-09-29 11:06:24",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.62,
+  "Column3": 119.99503,
+  "Column4": 10,
+  "Column5": 4.43
+ },
+ {
+  "Column1": "2018-09-29 10:48:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.17,
+  "Column3": 119.65513,
+  "Column4": 12,
+  "Column5": 3.47
+ },
+ {
+  "Column1": "2018-09-29 10:41:32",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.04,
+  "Column3": 119.93609,
+  "Column4": 10,
+  "Column5": 3.76
+ },
+ {
+  "Column1": "2018-09-29 10:26:20",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.23,
+  "Column3": 119.7478,
+  "Column4": 10,
+  "Column5": 3.49
+ },
+ {
+  "Column1": "2018-09-29 10:04:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.41,
+  "Column3": 119.74216,
+  "Column4": 10,
+  "Column5": 3.55
+ },
+ {
+  "Column1": "2018-09-29 09:54:25",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.06,
+  "Column3": 119.72583,
+  "Column4": 10,
+  "Column5": 4.35
+ },
+ {
+  "Column1": "2018-09-29 09:52:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.6,
+  "Column3": 119.96339,
+  "Column4": 10,
+  "Column5": 3.72
+ },
+ {
+  "Column1": "2018-09-29 09:48:13",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.63,
+  "Column3": 119.9806,
+  "Column4": 10,
+  "Column5": 3.42
+ },
+ {
+  "Column1": "2018-09-29 09:42:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.07,
+  "Column3": 119.92073,
+  "Column4": 10,
+  "Column5": 3.68
+ },
+ {
+  "Column1": "2018-09-29 09:34:13",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 120.05373,
+  "Column4": 10,
+  "Column5": 3.9
+ },
+ {
+  "Column1": "2018-09-29 09:04:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.38,
+  "Column3": 119.92776,
+  "Column4": 10,
+  "Column5": 3.45
+ },
+ {
+  "Column1": "2018-09-29 08:53:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.05,
+  "Column3": 119.88572,
+  "Column4": 10,
+  "Column5": 3.81
+ },
+ {
+  "Column1": "2018-09-29 08:37:06",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.06,
+  "Column3": 119.90926,
+  "Column4": 10,
+  "Column5": 4.3
+ },
+ {
+  "Column1": "2018-09-29 08:21:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.39,
+  "Column3": 119.9142,
+  "Column4": 10,
+  "Column5": 3.57
+ },
+ {
+  "Column1": "2018-09-29 08:16:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.27,
+  "Column3": 119.8681,
+  "Column4": 10,
+  "Column5": 3.56
+ },
+ {
+  "Column1": "2018-09-29 07:34:03",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.52,
+  "Column3": 119.53667,
+  "Column4": 10,
+  "Column5": 3.81
+ },
+ {
+  "Column1": "2018-09-29 06:43:51",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.48,
+  "Column3": 119.95618,
+  "Column4": 10,
+  "Column5": 4.15
+ },
+ {
+  "Column1": "2018-09-29 06:36:13",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.38,
+  "Column3": 120.58376,
+  "Column4": 10,
+  "Column5": 4.56
+ },
+ {
+  "Column1": "2018-09-29 06:08:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.67,
+  "Column3": 119.77382,
+  "Column4": 10,
+  "Column5": 3.5
+ },
+ {
+  "Column1": "2018-09-29 05:57:51",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.66,
+  "Column3": 119.91975,
+  "Column4": 10,
+  "Column5": 3.41
+ },
+ {
+  "Column1": "2018-09-29 05:48:59",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.32,
+  "Column3": 119.61509,
+  "Column4": 10,
+  "Column5": 3.61
+ },
+ {
+  "Column1": "2018-09-29 05:24:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.27,
+  "Column3": 119.94406,
+  "Column4": 10,
+  "Column5": 4.29
+ },
+ {
+  "Column1": "2018-09-29 05:22:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 120.07302,
+  "Column4": 10,
+  "Column5": 4.11
+ },
+ {
+  "Column1": "2018-09-29 05:15:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.48,
+  "Column3": 120.15603,
+  "Column4": 10,
+  "Column5": 3.58
+ },
+ {
+  "Column1": "2018-09-29 04:49:39",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.56,
+  "Column3": 120.0386,
+  "Column4": 10,
+  "Column5": 3.71
+ },
+ {
+  "Column1": "2018-09-29 04:23:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.38,
+  "Column3": 119.38955,
+  "Column4": 10,
+  "Column5": 4.5
+ },
+ {
+  "Column1": "2018-09-29 04:11:10",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.27,
+  "Column3": 120.10854,
+  "Column4": 10,
+  "Column5": 3.49
+ },
+ {
+  "Column1": "2018-09-29 04:06:58",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.18,
+  "Column3": 119.6666,
+  "Column4": 10,
+  "Column5": 3.76
+ },
+ {
+  "Column1": "2018-09-29 03:23:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.41,
+  "Column3": 120.03812,
+  "Column4": 10,
+  "Column5": 3.64
+ },
+ {
+  "Column1": "2018-09-29 03:00:41",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.83,
+  "Column3": 120.2806,
+  "Column4": 10,
+  "Column5": 3.92
+ },
+ {
+  "Column1": "2018-09-29 03:00:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.74,
+  "Column3": 120.10455,
+  "Column4": 10,
+  "Column5": 3.93
+ },
+ {
+  "Column1": "2018-09-29 02:54:25",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.48,
+  "Column3": 120.02156,
+  "Column4": 10,
+  "Column5": 4.34
+ },
+ {
+  "Column1": "2018-09-29 02:46:51",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.45,
+  "Column3": 121.07949,
+  "Column4": 10,
+  "Column5": 3.82
+ },
+ {
+  "Column1": "2018-09-29 02:15:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.34,
+  "Column3": 120.16366,
+  "Column4": 10,
+  "Column5": 4.22
+ },
+ {
+  "Column1": "2018-09-29 02:11:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.47,
+  "Column3": 120.08736,
+  "Column4": 10,
+  "Column5": 3.89
+ },
+ {
+  "Column1": "2018-09-29 01:46:18",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.44,
+  "Column3": 120.10447,
+  "Column4": 10,
+  "Column5": 4.19
+ },
+ {
+  "Column1": "2018-09-29 01:43:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.28,
+  "Column3": 120.02583,
+  "Column4": 10,
+  "Column5": 4.02
+ },
+ {
+  "Column1": "2018-09-29 01:21:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.37,
+  "Column3": 120.2243,
+  "Column4": 10,
+  "Column5": 4.01
+ },
+ {
+  "Column1": "2018-09-29 01:18:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.27,
+  "Column3": 120.0098,
+  "Column4": 10,
+  "Column5": 4.52
+ },
+ {
+  "Column1": "2018-09-29 01:16:39",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.38,
+  "Column3": 120.10701,
+  "Column4": 10,
+  "Column5": 4.09
+ },
+ {
+  "Column1": "2018-09-29 01:14:57",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.38,
+  "Column3": 120.11501,
+  "Column4": 10,
+  "Column5": 3.8
+ },
+ {
+  "Column1": "2018-09-29 01:00:07",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.54,
+  "Column3": 120.14935,
+  "Column4": 10,
+  "Column5": 3.53
+ },
+ {
+  "Column1": "2018-09-29 00:57:10",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.36,
+  "Column3": 120.99974,
+  "Column4": 10,
+  "Column5": 3.64
+ },
+ {
+  "Column1": "2018-09-29 00:47:52",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.48,
+  "Column3": 120.22796,
+  "Column4": 10,
+  "Column5": 4.14
+ },
+ {
+  "Column1": "2018-09-29 00:38:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.46,
+  "Column3": 121.00674,
+  "Column4": 10,
+  "Column5": 4.49
+ },
+ {
+  "Column1": "2018-09-29 00:27:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.37,
+  "Column3": 120.04526,
+  "Column4": 10,
+  "Column5": 4.41
+ },
+ {
+  "Column1": "2018-09-29 00:19:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.51,
+  "Column3": 120.00417,
+  "Column4": 83.8,
+  "Column5": 4.25
+ },
+ {
+  "Column1": "2018-09-29 00:14:03",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.21,
+  "Column3": 119.84044,
+  "Column4": 11.6,
+  "Column5": 3.94
+ },
+ {
+  "Column1": "2018-09-29 00:05:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.41,
+  "Column3": 119.9719,
+  "Column4": 10,
+  "Column5": 3.8
+ },
+ {
+  "Column1": "2018-09-29 00:00:24",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.62,
+  "Column3": 120.3885,
+  "Column4": 10,
+  "Column5": 4.26
+ },
+ {
+  "Column1": "2018-09-28 23:46:19",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.33,
+  "Column3": 119.93781,
+  "Column4": 25.7,
+  "Column5": 3.78
+ },
+ {
+  "Column1": "2018-09-28 23:35:20",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.09,
+  "Column3": 119.63097,
+  "Column4": 10,
+  "Column5": 4.04
+ },
+ {
+  "Column1": "2018-09-28 23:29:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 120.05759,
+  "Column4": 10,
+  "Column5": 4.61
+ },
+ {
+  "Column1": "2018-09-28 23:21:29",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.68,
+  "Column3": 119.93278,
+  "Column4": 10,
+  "Column5": 3.77
+ },
+ {
+  "Column1": "2018-09-28 23:13:24",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.24,
+  "Column3": 119.51318,
+  "Column4": 31.7,
+  "Column5": 3.67
+ },
+ {
+  "Column1": "2018-09-28 23:03:09",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.26,
+  "Column3": 119.94669,
+  "Column4": 10,
+  "Column5": 4.03
+ },
+ {
+  "Column1": "2018-09-28 23:01:51",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.02,
+  "Column3": 119.90369,
+  "Column4": 10,
+  "Column5": 4.09
+ },
+ {
+  "Column1": "2018-09-28 22:55:35",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.37,
+  "Column3": 121.03091,
+  "Column4": 10,
+  "Column5": 3.53
+ },
+ {
+  "Column1": "2018-09-28 22:17:52",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.58,
+  "Column3": 120.16674,
+  "Column4": 10,
+  "Column5": 4.73
+ },
+ {
+  "Column1": "2018-09-28 22:14:46",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.55,
+  "Column3": 120.15167,
+  "Column4": 10,
+  "Column5": 3.8
+ },
+ {
+  "Column1": "2018-09-28 21:59:06",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.54,
+  "Column3": 120.06531,
+  "Column4": 10,
+  "Column5": 4.03
+ },
+ {
+  "Column1": "2018-09-28 21:17:08",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.41,
+  "Column3": 119.67827,
+  "Column4": 13.7,
+  "Column5": 4.62
+ },
+ {
+  "Column1": "2018-09-28 21:02:38",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.08,
+  "Column3": 120.09841,
+  "Column4": 10,
+  "Column5": 4.74
+ },
+ {
+  "Column1": "2018-09-28 20:41:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.49,
+  "Column3": 120.10814,
+  "Column4": 10,
+  "Column5": 4.66
+ },
+ {
+  "Column1": "2018-09-28 20:34:52",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.29,
+  "Column3": 120.12523,
+  "Column4": 10,
+  "Column5": 4.59
+ },
+ {
+  "Column1": "2018-09-28 20:25:29",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.67,
+  "Column3": 120.2305,
+  "Column4": 10,
+  "Column5": 4.49
+ },
+ {
+  "Column1": "2018-09-28 20:02:52",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.45,
+  "Column3": 120.32298,
+  "Column4": 10,
+  "Column5": 4.39
+ },
+ {
+  "Column1": "2018-09-28 19:21:25",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.49,
+  "Column3": 120.23036,
+  "Column4": 10,
+  "Column5": 4.35
+ },
+ {
+  "Column1": "2018-09-28 19:12:54",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.41,
+  "Column3": 119.95904,
+  "Column4": 10,
+  "Column5": 4.11
+ },
+ {
+  "Column1": "2018-09-28 19:04:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.06,
+  "Column3": 119.75789,
+  "Column4": 10,
+  "Column5": 4.53
+ },
+ {
+  "Column1": "2018-09-28 18:21:42",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.21,
+  "Column3": 119.88525,
+  "Column4": 11.9,
+  "Column5": 4.28
+ },
+ {
+  "Column1": "2018-09-28 17:54:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.1,
+  "Column3": 119.40865,
+  "Column4": 10,
+  "Column5": 4.14
+ },
+ {
+  "Column1": "2018-09-28 17:44:19",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.01,
+  "Column3": 119.38523,
+  "Column4": 10,
+  "Column5": 4.42
+ },
+ {
+  "Column1": "2018-09-28 17:34:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.04,
+  "Column3": 119.58958,
+  "Column4": 10,
+  "Column5": 4.08
+ },
+ {
+  "Column1": "2018-09-28 17:30:48",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.42,
+  "Column3": 119.571,
+  "Column4": 10,
+  "Column5": 3.23
+ },
+ {
+  "Column1": "2018-09-28 17:26:47",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.37,
+  "Column3": 119.85687,
+  "Column4": 10,
+  "Column5": 3.64
+ },
+ {
+  "Column1": "2018-09-28 17:16:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.04,
+  "Column3": 119.81544,
+  "Column4": 10,
+  "Column5": 4.44
+ },
+ {
+  "Column1": "2018-09-28 17:10:51",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.08,
+  "Column3": 119.98061,
+  "Column4": 10,
+  "Column5": 3.88
+ },
+ {
+  "Column1": "2018-09-28 17:02:10",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.5,
+  "Column3": 119.84226,
+  "Column4": 57.4,
+  "Column5": 4.53
+ },
+ {
+  "Column1": "2018-09-28 16:55:10",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.45,
+  "Column3": 119.94399,
+  "Column4": 10,
+  "Column5": 4.51
+ },
+ {
+  "Column1": "2018-09-28 16:40:04",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.21,
+  "Column3": 119.68755,
+  "Column4": 10,
+  "Column5": 4.22
+ },
+ {
+  "Column1": "2018-09-28 16:29:23",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.17,
+  "Column3": 119.82794,
+  "Column4": 19.4,
+  "Column5": 3.4
+ },
+ {
+  "Column1": "2018-09-28 16:21:41",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -3.12,
+  "Column3": 119.39597,
+  "Column4": 23.3,
+  "Column5": 4.3
+ },
+ {
+  "Column1": "2018-09-28 16:18:41",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.09,
+  "Column3": 120.95028,
+  "Column4": 10,
+  "Column5": 4.25
+ },
+ {
+  "Column1": "2018-09-28 16:01:54",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.22,
+  "Column3": 119.85473,
+  "Column4": 10,
+  "Column5": 4.07
+ },
+ {
+  "Column1": "2018-09-28 15:58:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.04,
+  "Column3": 119.73689,
+  "Column4": 10,
+  "Column5": 4.55
+ },
+ {
+  "Column1": "2018-09-28 15:54:03",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.36,
+  "Column3": 120.20602,
+  "Column4": 10,
+  "Column5": 4.25
+ },
+ {
+  "Column1": "2018-09-28 15:51:54",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.13,
+  "Column3": 119.87151,
+  "Column4": 10,
+  "Column5": 3.95
+ },
+ {
+  "Column1": "2018-09-28 15:21:42",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.06,
+  "Column3": 119.80566,
+  "Column4": 10,
+  "Column5": 4.2
+ },
+ {
+  "Column1": "2018-09-28 15:20:44",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.17,
+  "Column3": 119.60835,
+  "Column4": 10,
+  "Column5": 4.25
+ },
+ {
+  "Column1": "2018-09-28 15:13:31",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.03,
+  "Column3": 120.04384,
+  "Column4": 10,
+  "Column5": 3.85
+ },
+ {
+  "Column1": "2018-09-28 15:10:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.54,
+  "Column3": 120.1803,
+  "Column4": 10,
+  "Column5": 4.34
+ },
+ {
+  "Column1": "2018-09-28 15:05:24",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.64,
+  "Column3": 120.28886,
+  "Column4": 10,
+  "Column5": 3.82
+ },
+ {
+  "Column1": "2018-09-28 14:59:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.53,
+  "Column3": 119.89737,
+  "Column4": 10,
+  "Column5": 3.9
+ },
+ {
+  "Column1": "2018-09-28 14:57:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.13,
+  "Column3": 120.05077,
+  "Column4": 10,
+  "Column5": 3.27
+ },
+ {
+  "Column1": "2018-09-28 14:52:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.09,
+  "Column3": 119.76237,
+  "Column4": 10,
+  "Column5": 3.66
+ },
+ {
+  "Column1": "2018-09-28 14:44:30",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.54,
+  "Column3": 120.29906,
+  "Column4": 10,
+  "Column5": 4.35
+ },
+ {
+  "Column1": "2018-09-28 14:22:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.03,
+  "Column3": 120.94216,
+  "Column4": 10,
+  "Column5": 4.39
+ },
+ {
+  "Column1": "2018-09-28 14:20:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.89,
+  "Column3": 119.68203,
+  "Column4": 10,
+  "Column5": 4.11
+ },
+ {
+  "Column1": "2018-09-28 14:16:04",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.44,
+  "Column3": 120.00633,
+  "Column4": 10,
+  "Column5": 4.71
+ },
+ {
+  "Column1": "2018-09-28 14:06:13",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.07,
+  "Column3": 119.55158,
+  "Column4": 10,
+  "Column5": 4.1
+ },
+ {
+  "Column1": "2018-09-28 14:01:54",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.97,
+  "Column3": 119.94501,
+  "Column4": 10,
+  "Column5": 3.77
+ },
+ {
+  "Column1": "2018-09-28 13:56:50",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.02,
+  "Column3": 119.63614,
+  "Column4": 10,
+  "Column5": 4.52
+ },
+ {
+  "Column1": "2018-09-28 13:55:07",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.36,
+  "Column3": 121.03526,
+  "Column4": 10,
+  "Column5": 4.31
+ },
+ {
+  "Column1": "2018-09-28 13:52:06",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.54,
+  "Column3": 120.2193,
+  "Column4": 10,
+  "Column5": 4.05
+ },
+ {
+  "Column1": "2018-09-28 13:28:48",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.05,
+  "Column3": 119.59821,
+  "Column4": 10,
+  "Column5": 4.55
+ },
+ {
+  "Column1": "2018-09-28 13:23:42",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.71,
+  "Column3": 119.84074,
+  "Column4": 14.7,
+  "Column5": 4.1
+ },
+ {
+  "Column1": "2018-09-28 13:01:55",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.23,
+  "Column3": 119.94321,
+  "Column4": 10,
+  "Column5": 3.58
+ },
+ {
+  "Column1": "2018-09-28 12:52:29",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.05,
+  "Column3": 119.84127,
+  "Column4": 10,
+  "Column5": 4.03
+ },
+ {
+  "Column1": "2018-09-28 12:39:37",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.23,
+  "Column3": 120.21468,
+  "Column4": 10,
+  "Column5": 4.71
+ },
+ {
+  "Column1": "2018-09-28 12:36:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.28,
+  "Column3": 119.89805,
+  "Column4": 12.4,
+  "Column5": 4.19
+ },
+ {
+  "Column1": "2018-09-28 12:20:24",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.75,
+  "Column3": 119.53345,
+  "Column4": 10,
+  "Column5": 4.73
+ },
+ {
+  "Column1": "2018-09-28 12:14:21",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.14,
+  "Column3": 120.0076,
+  "Column4": 33.4,
+  "Column5": 4.05
+ },
+ {
+  "Column1": "2018-09-28 12:05:03",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.25,
+  "Column3": 119.7966,
+  "Column4": 10,
+  "Column5": 4.69
+ },
+ {
+  "Column1": "2018-09-28 12:03:01",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.71,
+  "Column3": 119.80025,
+  "Column4": 10,
+  "Column5": 4.23
+ },
+ {
+  "Column1": "2018-09-28 11:53:55",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.43,
+  "Column3": 120.74873,
+  "Column4": 10,
+  "Column5": 3.84
+ },
+ {
+  "Column1": "2018-09-28 11:48:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.36,
+  "Column3": 119.88773,
+  "Column4": 10,
+  "Column5": 4.33
+ },
+ {
+  "Column1": "2018-09-28 11:42:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.2,
+  "Column3": 119.8363,
+  "Column4": 10,
+  "Column5": 4.76
+ },
+ {
+  "Column1": "2018-09-28 11:39:13",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.51,
+  "Column3": 119.74736,
+  "Column4": 10,
+  "Column5": 4.66
+ },
+ {
+  "Column1": "2018-09-28 11:36:28",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.42,
+  "Column3": 120.02463,
+  "Column4": 10,
+  "Column5": 4.39
+ },
+ {
+  "Column1": "2018-09-28 11:26:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -1.67,
+  "Column3": 120.31414,
+  "Column4": 10,
+  "Column5": 4.57
+ },
+ {
+  "Column1": "2018-09-28 10:34:53",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.04,
+  "Column3": 119.7607,
+  "Column4": 10,
+  "Column5": 4.71
+ },
+ {
+  "Column1": "2018-09-28 09:57:39",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.24,
+  "Column3": 119.82613,
+  "Column4": 10,
+  "Column5": 4.69
+ },
+ {
+  "Column1": "2018-09-28 09:49:07",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.29,
+  "Column3": 119.83437,
+  "Column4": 10,
+  "Column5": 3.08
+ },
+ {
+  "Column1": "2018-09-28 09:42:48",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.12,
+  "Column3": 119.99624,
+  "Column4": 10,
+  "Column5": 3.52
+ },
+ {
+  "Column1": "2018-09-28 09:32:19",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.4,
+  "Column3": 119.74828,
+  "Column4": 10,
+  "Column5": 3.76
+ },
+ {
+  "Column1": "2018-09-28 09:22:49",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.16,
+  "Column3": 119.71643,
+  "Column4": 10,
+  "Column5": 4.72
+ },
+ {
+  "Column1": "2018-09-28 09:20:33",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.27,
+  "Column3": 119.89268,
+  "Column4": 10,
+  "Column5": 4.39
+ },
+ {
+  "Column1": "2018-09-28 09:11:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.38,
+  "Column3": 119.85644,
+  "Column4": 10,
+  "Column5": 4.25
+ },
+ {
+  "Column1": "2018-09-28 08:58:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.26,
+  "Column3": 119.79221,
+  "Column4": 10,
+  "Column5": 4.37
+ },
+ {
+  "Column1": "2018-09-28 08:53:22",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.3,
+  "Column3": 119.62677,
+  "Column4": 10,
+  "Column5": 4.37
+ },
+ {
+  "Column1": "2018-09-28 08:52:15",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.31,
+  "Column3": 119.93295,
+  "Column4": 15,
+  "Column5": 4.02
+ },
+ {
+  "Column1": "2018-09-28 08:47:02",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.12,
+  "Column3": 119.89102,
+  "Column4": 10,
+  "Column5": 3.93
+ },
+ {
+  "Column1": "2018-09-28 08:42:30",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.35,
+  "Column3": 119.48755,
+  "Column4": 10,
+  "Column5": 3.49
+ },
+ {
+  "Column1": "2018-09-28 08:38:45",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.2,
+  "Column3": 120.00687,
+  "Column4": 10,
+  "Column5": 3.11
+ },
+ {
+  "Column1": "2018-09-28 08:20:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.02,
+  "Column3": 119.8631,
+  "Column4": 10,
+  "Column5": 4.19
+ },
+ {
+  "Column1": "2018-09-28 08:07:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.26,
+  "Column3": 119.70612,
+  "Column4": 10.1,
+  "Column5": 3.73
+ },
+ {
+  "Column1": "2018-09-28 08:06:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.37,
+  "Column3": 119.63775,
+  "Column4": 10,
+  "Column5": 3.8
+ },
+ {
+  "Column1": "2018-09-28 08:00:27",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.32,
+  "Column3": 119.80291,
+  "Column4": 10,
+  "Column5": 4.39
+ },
+ {
+  "Column1": "2018-09-28 07:59:12",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.33,
+  "Column3": 119.67694,
+  "Column4": 10,
+  "Column5": 4.31
+ },
+ {
+  "Column1": "2018-09-28 07:57:23",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.21,
+  "Column3": 119.97384,
+  "Column4": 10,
+  "Column5": 3.7
+ },
+ {
+  "Column1": "2018-09-28 07:50:43",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.19,
+  "Column3": 119.93076,
+  "Column4": 10,
+  "Column5": 4.41
+ },
+ {
+  "Column1": "2018-09-28 07:43:40",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.25,
+  "Column3": 119.67789,
+  "Column4": 10,
+  "Column5": 3.24
+ },
+ {
+  "Column1": "2018-09-28 07:27:00",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.24,
+  "Column3": 119.78404,
+  "Column4": 10,
+  "Column5": 4.71
+ },
+ {
+  "Column1": "2018-09-28 07:17:14",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.09,
+  "Column3": 119.86357,
+  "Column4": 10,
+  "Column5": 4.55
+ },
+ {
+  "Column1": "2018-09-28 07:11:17",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -0.35,
+  "Column3": 119.96053,
+  "Column4": 10,
+  "Column5": 4.37
+ },
+ {
+  "Column1": "2018-09-28 05:35:55",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.42,
+  "Column3": 121.14996,
+  "Column4": 10,
+  "Column5": 3.24
+ },
+ {
+  "Column1": "2018-09-28 05:20:34",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.37,
+  "Column3": 120.80622,
+  "Column4": 13.3,
+  "Column5": 3.12
+ },
+ {
+  "Column1": "2018-09-28 01:02:23",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": -2.54,
+  "Column3": 121.22311,
+  "Column4": 25.1,
+  "Column5": 3.72
+ },
+ {
+  "Column1": "2018-09-27 22:16:28",
+  "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": 0.07,
+  "Column3": 122.4424,
+  "Column4": 254.7,
+  "Column5": 2.88
+ }
+]
